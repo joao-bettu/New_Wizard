@@ -1,2 +1,2 @@
 # Nova Wizard
-## Versão: 0.00.01
+## Versão: 1.00.0
